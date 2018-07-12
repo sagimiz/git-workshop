@@ -4,3 +4,10 @@ public class Main{
 		System.out.println("Hello" + args[0]);
 	}
 }
+
+public class Calculator {
+	
+	public int mul(int a, int b){
+		return a*b;
+	}
+}
